@@ -1,0 +1,1088 @@
+{
+  "name" : "Automation_SQL_PR_Feature",
+  "fileSystem" : {
+    "type" : "Folder",
+    "name" : "",
+    "children" : { },
+    "path" : "",
+    "editable" : true
+  },
+  "providerType" : "databricks",
+  "prophecyIDEFolder" : {
+    "name" : "",
+    "children" : { },
+    "path" : "",
+    "editable" : true
+  },
+  "externalSources" : {
+    "type" : "Project",
+    "name" : "",
+    "children" : [ {
+      "type" : "Catalog",
+      "name" : "-",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "__databricks_internal",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "a_test_catalog",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "agent_eval_harness",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "agent_testing",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ai_search_testing",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "aman",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ameer",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "andre_dev",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "anubhav",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "apollo11",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ash",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "avaiss",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "avpreet_qa",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "bhupesh",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "chiranjiv",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "common_catalog",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "dais2023",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "dais_2024",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "dais_gen_ai",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "data_engg",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "deeptanshu",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "demo_catalog",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "dev",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "dipanshu",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "durgesh",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "empty_catalog",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "empty_catalog_2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "evernorth",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "finance",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "fsidemos",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "gen_ai",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "gen_ai_sparklearner",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "grepsr_sample_health_care_provider_hcp_data_physicians_data_hospital_data_global_coverage",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "harmonization_eval",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "harmonization_eval_output",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "harsh",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "hive_metastore",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ishaan",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ishaan-testing",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "jrohit",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "kaustubh",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "kaustubh_keskar",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "kg_test_database",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "kishore",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "kuldeep",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "lineage_data",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "maciej",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "main",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "mei_dev",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "najish_data",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "newcata_1",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "no_permission",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ntong",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ntong2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ntong_dais",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "observability",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "pramit",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "prophecy_data",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa-team",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_alteryx_challenges",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_generic_spider2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_kg_dont_use",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_knowledge_graph_1",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_knowledge_graph_2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_only_one_database",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_0",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_1",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_10",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_11",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_12",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_13",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_14",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_15",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_16",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_17",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_18",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_19",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_3",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_4",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_5",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_6",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_7",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_8",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_perf_9",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_1",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_10",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_11",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_12",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_13",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_14",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_15",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_16",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_17",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_18",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_19",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_20",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_21",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_22",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_23",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_24",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_25",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_26",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_27",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_28",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_29",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_3",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_30",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_31",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_32",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_33",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_34",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_35",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_36",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_37",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_38",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_39",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_4",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_40",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_5",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_6",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_7",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_8",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_performance_schema_9",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_team",
+      "children" : [ {
+        "type" : "Schema",
+        "name" : "'qa_database'",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "'schedule'",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "a_fast_switch_test_1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "a_fast_switch_test_2",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "a_fast_switch_test_3",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "acxiom_synthetic_data",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "alteryx_pov_pfizer",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "aman",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "arpit",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "aruns",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "asana",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreet_tables",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreet_targets",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreet_views",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreettables",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreettables1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "avpreettabless",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "bronze_cdm",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "compressed_datasets",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "cross",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "cross_provider_common_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dbt_test__audit",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "default",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dest",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dest_database",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dest_qa",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dest_scaling",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "destination",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "destination_qa",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dimensions",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dipanshu",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dipanshu2",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "dxcfgvhbj",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "eval_duckdb",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "filtered_data",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "flatten_data",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "gender_data",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "information_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "kg_test_database",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "kg_test_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "mfa",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "new_orch1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "new_orch2",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "new_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "newone",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "newschema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "neww",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "ooii",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "pfizer_large",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "pfizer_small",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhar",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhar_nba_new",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnba",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnba2targets",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnbanew",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnew",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnew1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnew12",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakharnewtarget1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhartarget2",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhartargets",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhartargets1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "prakhartargets2",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa-supported-characters",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_automated_kg_test",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_automation",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_chat_nba_targets",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_chayan",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_database",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_database1",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_databasedfzveafv",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_databaseqdqwed",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_db_warehouse",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_dest",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_dest_database",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_destination",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_do_anything",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_orchestration",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_orchestration_avpreettables",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_orchestration_prakhar",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_orchestration_qa_database",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_orchestration_qa_orchestration",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_perfusecases",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_reporting",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_target",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_test_copilot_expressions",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_tpcds",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_upload",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_upload_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "qa_very_small_db",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "rohit",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "sales_performance_management_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "sales_schema_avpreet",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "schema_01",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "sf1gb",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "staging",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "synthetic_data",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "tanmay",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "target",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "target_schema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "test13march",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "test_db",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "test_sales",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "testschema",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "tpcds",
+        "children" : [ ]
+      }, {
+        "type" : "Schema",
+        "name" : "tpcds_1gb",
+        "children" : [ ]
+      } ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_tpcds",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "qa_wikisql",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "raghav",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rajat",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "ramprasad",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rashmin",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rishabh",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rj",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rohit",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "rohit_temp",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "samples",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "sandeep",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "snowflake_maciej",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "sony",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "system",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "t4_demo_data",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "tanmay",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "test_tmp_01",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "testcata",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "tmp1",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "tmp2",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "user3",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "uw2_share",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "vedant",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "vikrant",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "vineeth",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "waterfall-harmonizer",
+      "children" : [ ]
+    }, {
+      "type" : "Catalog",
+      "name" : "yashwant",
+      "children" : [ ]
+    } ]
+  },
+  "dependenciesContainer" : {
+    "dependencies" : { },
+    "prophecyProjectDependencies" : {
+      "https://github.com/prophecy-io/prophecy-basics" : "15"
+    },
+    "dependenciesMetadata" : {
+      "https://github.com/prophecy-io/prophecy-basics" : {
+        "autoUpgrade" : true
+      }
+    }
+  },
+  "entitiesToSync" : [ ],
+  "frontEndLanguage" : "sql",
+  "backEndLanguage" : "sql"
+}
